@@ -48,3 +48,15 @@ p {
 .logo {
 	margin-top: 15px;
 }
+
+a {
+	color: 	#00FFFF;
+}
+
+a:visited { 
+	color: 	#00FFFF; 
+}
+
+a:hover { 
+	color: #06e; 
+}​
