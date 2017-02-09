@@ -32,14 +32,16 @@ img:hover {
 
 h3 {
 	font-weight: bold;
+	text-align: center;
 }
 
 p {
 	font-size: 1.2em;
+	margin-bottom: 50px;
 }
 
 .small-images {
-	max-width: 400px;
+	max-width: 300px;
 	margin: 0 auto;
 }
 
