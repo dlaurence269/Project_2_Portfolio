@@ -22,10 +22,10 @@ hr {
 
 img {
 	width: 100%;
-	max-width: 100%;
 }
 
-.col-sm-4 {
-	margin: auto;
+.small-images {
+	max-width: 400px;
+	margin: 0 auto;
 }
 
