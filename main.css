@@ -1,13 +1,9 @@
 @import url(http://weloveiconfonts.com/api/?family=entypo);
-/*
-@media screen and (max-width: 500px) {
-		  h1 {color: red}
-*/
 
 body {
-	font-family: 'Lato', sans-serif;
+	font-family: "Lato", sans-serif;
 	color: white;
-	font-size: 100% 2em;
+	font-size: 1.5em;
 	background-image: url(images/Wood.jpg);
     background-attachment: fixed;
 }
@@ -27,7 +23,7 @@ img {
 }
 
 img:hover {
-	opacity: .5;
+	opacity: 0.5;
 }
 
 h3 {
@@ -56,11 +52,11 @@ p {
 }
 
 a {
-	color: 	#00FFFF;
+	color: 	#00ffff;
 }
 
 a:visited { 
-	color: 	#00FFFF; 
+	color: 	#00ffff; 
 }
 
 a:hover { 
