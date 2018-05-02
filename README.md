@@ -4,6 +4,7 @@
 - We were given room to get creative with our methods of making the pages responsive, and the actual images/content on the page. The general layout, and basic function of the page, however, is required.
 
 # How does someone view it?
-- Visit the URL "http://www.daniellaurence.com"
-- OR Clone, Fork, or Download the code locally.
+- Visit the URL "http://www.daniellaurence.com/portfolio"
+- OR 
+- Clone, Fork, or Download the code locally.
 - Then open up the index.html file in Google Chrome (or other browser) that you downloaded.
