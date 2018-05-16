@@ -56,6 +56,11 @@ h2 {
 
 p {
 	font-size: 1.2em;
+}
+
+.p-tech {
+	font-size: 1em;
+	font-style: italic;
 	margin-bottom: 50px;
 }
 
