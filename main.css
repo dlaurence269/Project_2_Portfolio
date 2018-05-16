@@ -8,6 +8,18 @@ body {
     background-attachment: fixed;
 }
 
+header {
+	display: flex;
+	align-items: center;
+	margin-top: 10px;
+}
+
+@media(max-width: 767px) {
+	header {
+		display: block;
+	}
+}
+
 hr {
 	border: solid 2px white;
 }
@@ -20,6 +32,11 @@ hr {
 
 img {
 	width: 100%;
+}
+
+#header-image {
+	width: 150px;
+	height: auto;
 }
 
 .img-link:hover {
