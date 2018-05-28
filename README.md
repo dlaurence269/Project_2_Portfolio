@@ -1,10 +1,13 @@
-# What is "Project_2_Portfolio"?
-- This is a "portfolio" website that we, the students, were required to create based off of a PDF given to us by Udacity.
-- The page has to be laid out like the PDF, yet must also be responsive enough to be viewed on multiple devices of varying widths.
-- We were given room to get creative with our methods of making the pages responsive, and the actual images/content on the page. The general layout, and basic function of the page, however, is required.
+# Purpose
+- This project was assigned by Udacity, an online programming educator.
+- Udacity provided a PDF as the schematic for the website lay out.
+- The website had to be mobile responsive, but the implementation of the HTML and CSS were left open-ended.
 
-# How does someone view it?
-- Visit the URL "http://www.daniellaurence.com/portfolio"
+# Update
+- After submission this project was changed to host all of the subsequent Udacity projects on a private server.
+
+# Running the Code
+- Visit the URL "http://www.daniellaurence.com/"
 - OR 
 - Clone, Fork, or Download the code locally.
-- Then open up the index.html file in Google Chrome (or other browser) that you downloaded.
+- Then open up the index.html file that you downloaded in the browser of your choice.
