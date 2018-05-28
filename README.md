@@ -1,5 +1,6 @@
 # Purpose
 - This project was assigned by Udacity, an online programming educator.
+- This website is a personal portfolio; originally showcasing personal information, and now increasingly more professional information.
 - Udacity provided a PDF as the schematic for the website lay out.
 - The website had to be mobile responsive, but the implementation of the HTML and CSS were left open-ended.
 
